@@ -3,7 +3,6 @@
     <div class="preview">
       <CollapsibleSection>
         <div class="preview-content">
-          <!-- comment to be removed... -->
           <div class="top-row">
             <img :src="selectedRobot.head.src" />
           </div>
